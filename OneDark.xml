@@ -1,19 +1,19 @@
 ﻿<EditorStyle name="One Dark" _description="Based on Atom's One Dark Syntax Theme">
-  <Style name="text" color="#A4A9BD" bgColor="#282C33" />
-  <Style name="text.background" color="#FFFFFF" />
-  <Style name="text.background.readonly" color="#FFFFFF" />
-  <Style name="text.background.searchresult-main" color="#E5992F" />
-  <Style name="text.background.searchresult" color="#F6B94D" />
+  <Style name="text" color="#ABB2BF" bgColor="#282C34" />
+  <Style name="text.background" color="#282C34" />
+  <Style name="text.background.readonly" color="#282C34" />
+  <Style name="text.background.searchresult-main" color="#D19A66" />
+  <Style name="text.background.searchresult" color="#E6C07B" />
   <Style name="text.selection" color="#A9B0C0" bgColor="#3E4451" />
   <Style name="text.selection.inactive" color="#00000000" bgColor="#D3D7CF" />
-  <Style name="text.link" color="#0000FF" />
+  <Style name="text.link" color="#61AEEE" />
   <Style name="text.punctuation" color="#2E3436" />
-  <Style name="text.preprocessor" color="#D19B62" />
+  <Style name="text.preprocessor" color="#D19A66" />
   <Style name="xml" color="#A7AEC0" bgColor="#FFFFFF" />
   <Style name="xml.tag" color="#A7AEC0" />
   <Style name="xml.name" color="#3465A4" />
   <Style name="xml.attribute" color="#A7AEC0" />
-  <Style name="xml.cdata" color="#5C6371" />
+  <Style name="xml.cdata" color="#5C6370" />
   <Style name="tooltip" color="#A7AEC0" bgColor="#FEFFE9" />
   <Style name="tooltip.border" color="#B2B2B2" />
   <Style name="tooltip.pager.text" color="#828282" />
@@ -73,59 +73,59 @@
   <Style name="bubble.warning" color="#555753" bgColor="#F4EEDA" />
   <Style name="bubble.error" color="#555753" bgColor="#F5EAE7" />
   <Style name="linenumber" color="#4B5164" bgColor="#282C33" />
-  <Style name="iconbar" color="#EEEEEC" />
-  <Style name="iconbar.separator" color="#BABDB6" />
-  <Style name="fold" color="#4B5164" bgColor="#454B5D" />
-  <Style name="fold.margin" color="#2A669A" bgColor="#B1CCE3" />
-  <Style name="comment" color="#5C6371" />
-  <Style name="comment.keyword" color="#5C6371" />
-  <Style name="string" color="#97C375" />
+  <Style name="iconbar" color="#21252B" />
+  <Style name="iconbar.separator" color="#3A404B" />
+  <Style name="fold" color="#3A404B" bgColor="#21252B" />
+  <Style name="fold.margin" color="#3A404B" bgColor="#21252B" />
+  <Style name="comment" color="#5C6370" />
+  <Style name="comment.keyword" color="#5C6370" />
+  <Style name="string" color="#98C379" />
   <Style name="string.escape" color="#A53E00" />
-  <Style name="constant" color="#D09A61" />
-  <Style name="keyword" color="#C775DE" />
-  <Style name="keyword.access" color="#C775DE" />
-  <Style name="keyword.semantic.extensionthis" color="#D09A61" />
-  <Style name="keyword.type" color="#51B4C3" />
-  <Style name="keyword.semantic.type" color="#51B4C3" />
-  <Style name="constant.language" color="#D09A61" />
-  <Style name="constant.language.void" color="#C578DC" />
+  <Style name="constant" color="#D19A66" />
+  <Style name="keyword" color="#C678DD" />
+  <Style name="keyword.access" color="#C678DD" />
+  <Style name="keyword.semantic.extensionthis" color="#D19A66" />
+  <Style name="keyword.type" color="#56B6C2" />
+  <Style name="keyword.semantic.type" color="#56B6C2" />
+  <Style name="constant.language" color="#D19A66" />
+  <Style name="constant.language.void" color="#C678DD" />
   <Style name="keyword.semantic.field" color="#A6ACBF" />
-  <Style name="keyword.semantic.field.declaration" color="#A7AEC0" />
+  <Style name="keyword.semantic.field.declaration" color="#A6ACBF" />
   <Style name="keyword.semantic.property" color="#A6ACBF" />
   <Style name="keyword.semantic.property.declaration" color="#A7ADBF" />
   <Style name="keyword.semantic.event" color="#A7AEC0" />
-  <Style name="keyword.semantic.event.declaration" color="#5DAEF2" />
+  <Style name="keyword.semantic.event.declaration" color="#61AEEE" />
   <Style name="keyword.semantic.method" color="#A7ADBF" />
-  <Style name="keyword.semantic.method.declaration" color="#5DAEF2" />
-  <Style name="keyword.semantic.error" color="#DB241D" />
-  <Style name="keyword.modifier" color="#C775DE" />
+  <Style name="keyword.semantic.method.declaration" color="#61AEEE" />
+  <Style name="keyword.semantic.error" color="#E06C75" />
+  <Style name="keyword.modifier" color="#C678DD" />
   <Style name="bubble.warning.text" color="#555753" bgColor="#F4EEDA" />
   <Style name="bubble.error.text" color="#555753" bgColor="#F5EAE7" />
   <Style name="template.directive" color="#000000" bgColor="#FDFAED" />
-  <Style name="text.preprocessor.keyword" color="#D19B62" />
-  <Style name="comment.line" color="#5C6371" />
-  <Style name="comment.block" color="#5C6371" />
-  <Style name="comment.doc" color="#5C6371" />
-  <Style name="comment.tag" color="#5C6371" />
-  <Style name="comment.tag.line" color="#5C6371" />
-  <Style name="comment.tag.block" color="#5C6371" />
-  <Style name="comment.tag.doc" color="#5C6371" />
-  <Style name="comment.keyword.todo" color="#5C6371" weight="Bold" />
-  <Style name="constant.digit" color="#D19B62" />
-  <Style name="string.single" color="#97C375" />
-  <Style name="string.double" color="#97C375" />
-  <Style name="string.other" color="#97C375" />
-  <Style name="keyword.operator" color="#C775DE" />
-  <Style name="keyword.operator.declaration" color="#C775DE" />
-  <Style name="keyword.selection" color="#C775DE" />
-  <Style name="keyword.iteration" color="#C775DE" />
-  <Style name="keyword.jump" color="#C775DE" />
-  <Style name="keyword.context" color="#C775DE" />
-  <Style name="keyword.exceptions" color="#C775DE" />
-  <Style name="keyword.namespace" color="#C775DE" />
-  <Style name="keyword.property" color="#C775DE" />
-  <Style name="keyword.declaration" color="#C775DE" />
-  <Style name="keyword.parameter" color="#C775DE" />
-  <Style name="keyword.misc" color="#C775DE" />
+  <Style name="text.preprocessor.keyword" color="#D19A66" />
+  <Style name="comment.line" color="#5C6370" />
+  <Style name="comment.block" color="#5C6370" />
+  <Style name="comment.doc" color="#5C6370" />
+  <Style name="comment.tag" color="#5C6370" />
+  <Style name="comment.tag.line" color="#5C6370" />
+  <Style name="comment.tag.block" color="#5C6370" />
+  <Style name="comment.tag.doc" color="#5C6370" />
+  <Style name="comment.keyword.todo" color="#5C6370" weight="Bold" />
+  <Style name="constant.digit" color="#D19A66" />
+  <Style name="string.single" color="#98C379" />
+  <Style name="string.double" color="#98C379" />
+  <Style name="string.other" color="#98C379" />
+  <Style name="keyword.operator" color="#C678DD" />
+  <Style name="keyword.operator.declaration" color="#C678DD" />
+  <Style name="keyword.selection" color="#C678DD" />
+  <Style name="keyword.iteration" color="#C678DD" />
+  <Style name="keyword.jump" color="#C678DD" />
+  <Style name="keyword.context" color="#C678DD" />
+  <Style name="keyword.exceptions" color="#C678DD" />
+  <Style name="keyword.namespace" color="#C678DD" />
+  <Style name="keyword.property" color="#C678DD" />
+  <Style name="keyword.declaration" color="#C678DD" />
+  <Style name="keyword.parameter" color="#C678DD" />
+  <Style name="keyword.misc" color="#C678DD" />
   <Style name="keyword.semantic.type.declaration" color="#E6C07B" />
 </EditorStyle>
