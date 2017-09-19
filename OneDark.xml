@@ -72,7 +72,7 @@
   <Style name="marker.debug.stackline.border" color="#336633" />
   <Style name="bubble.warning" color="#555753" bgColor="#F4EEDA" />
   <Style name="bubble.error" color="#555753" bgColor="#F5EAE7" />
-  <Style name="linenumber" color="#4B5164" bgColor="#282C33" />
+  <Style name="linenumber" color="#4B5164" bgColor="#282C34" />
   <Style name="iconbar" color="#21252B" />
   <Style name="iconbar.separator" color="#3A404B" />
   <Style name="fold" color="#3A404B" bgColor="#21252B" />
